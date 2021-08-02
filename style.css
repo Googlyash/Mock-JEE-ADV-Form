@@ -1,0 +1,18 @@
+
+.bg{
+  border: 5px solid black;
+  width: auto;
+}
+table{
+  border: 3px solid black;
+  border-collapse: collapse;
+  width: 100%;
+}
+div{
+  border: 3px solid#666699  ;
+  width: 100%;
+}
+
+h1{
+  color: brown;
+}
