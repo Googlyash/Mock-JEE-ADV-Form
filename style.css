@@ -9,6 +9,7 @@ table{
   width: 100%;
 }
 div{
+  display:flex;
   border: 3px solid#666699  ;
   width: 100%;
 }
